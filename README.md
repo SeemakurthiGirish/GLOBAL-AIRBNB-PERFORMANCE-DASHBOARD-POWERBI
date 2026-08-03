@@ -40,7 +40,7 @@ Dataset sourced from **[Maven Analytics](https://www.mavenanalytics.io/)** — G
 
 ## 📊 Dashboard Preview
 
-![Dashboard Preview].(https://github.com/SeemakurthiGirish/GLOBAL-AIRBNB-PERFORMANCE-DASHBOARD-POWERBI/blob/main/OVERALL%20PAGE%20OF%20AIRBNB%20PROJECT/.png).
+![Dashboard Preview](https://github.com/SeemakurthiGirish/GLOBAL-AIRBNB-PERFORMANCE-DASHBOARD-POWERBI/blob/main/OVERALL%20PAGE%20OF%20AIRBNB%20PROJECT/.png)
 
 ---
 
